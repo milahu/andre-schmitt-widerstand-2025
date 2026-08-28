@@ -1,6 +1,6 @@
 # TODO set config values
 
-num_pages = 592
+num_pages = 204
 
 color_pages = []
 
@@ -22,6 +22,7 @@ max_scan_x, max_scan_y = 215.88, 355.567 # maximum
 scan_x, scan_y = 147, 231
 scan_x, scan_y = 156, 210
 scan_x, scan_y = 210, 156 # rotate 90
+scan_x, scan_y = 191, 119 # rotate 90
 
 # scan_x, scan_y = max_scan_x, max_scan_y # maximum
 
@@ -102,7 +103,7 @@ image_format = "jpg"
 
 # scan_mode = "24bit Color[Fast]"
 scan_mode = "True Gray"
-scan_mode = "24bit Color[Fast]"
+# scan_mode = "24bit Color[Fast]"
 
 # "center aligned" is not working: scanimage failed with returncode -11
 # scan_source = "Automatic Document Feeder(center aligned,Duplex)"
@@ -157,7 +158,11 @@ lowthresh = 0.3
 
 # leveling is too destructive on images and colors
 # so we keep the darkgray text on lightgray background
-do_level = False
+# do_level = False
+
+# TODO which is used by _shared.load_config
+text_lowthresh = 0.3
+lowthresh = 0.3
 
 
 

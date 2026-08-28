@@ -79,28 +79,34 @@ args += [
     "--text-format", "html",
     # TODO? move these config items to 000-config.py
     "--doc-modified", doc_modified,
-]
-
-
-todo_args = [
-    "--doc-title", "",
-    "--doc-subtitle", "",
+    "--doc-title", "Widerstand",
+    "--doc-subtitle", "Kampf um die Freiheit",
     # "--doc-subject", "",
     "--doc-date", "2025",
     "--doc-edition", "1",
-    "--doc-extent", "123 pages",
+    "--doc-extent", "202 pages",
     "--color-image-pages", "124,125",
-    "--doc-author", "",
+    "--doc-author", "Andre Schmitt",
     # "--doc-introducer", "",
     # "--doc-contributor", "",
     # "--doc-translator", "",
-    "--doc-publisher", "",
+    "--doc-publisher", "united p.c.",
     "--doc-language", "de", # german
     # "--doc-language", "en", # english
-    "--doc-isbn", "0000000000000",
-    "--doc-cover-image", "070-deskew/999.tiff",
+    "--doc-isbn", "9783710326134",
+    "--doc-cover-image", "070-deskew/205.tiff",
     "--canonical-url-base", "https://milahu.github.io/todo/",
     "--doc-description", """
+Josef kämpft nach einer Welle von Terroranschlägen ums Überleben.
+Hunger, Kälte und ständige Gefahr prägen den Alltag.
+Getrieben von schmerzhaften Erinnerungen an seine verlorene Familie schließt er sich dem Widerstand an.
+Doch sein Ziel ist klar: Er will Marie, seine entführte Schwester, retten.
+
+Trotz seiner Abneigung gegen Gewalt muss er sich als Kämpfer beweisen.
+Während er an seinen inneren Konflikten und der Härte der neuen Welt zu zerbrechen droht, bleibt eine Wahrheit bestehen:
+Aufgeben ist keine Option.
+
+Ein packender Roman über Verlust, Widerstand und die Suche nach einem Funken Hoffnung in einer Welt, die am Abgrund steht.
 """,
 ]
 

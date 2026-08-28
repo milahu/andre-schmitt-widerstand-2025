@@ -1,12 +1,38 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Andre Schmitt - Widerstand: Kampf um die Freiheit (2025)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Andre Schmitt - Widerstand: Kampf um die Freiheit (2025)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/3710326133
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Widerstand: Kampf um die Freiheit
+
+Andre Schmitt (Autor)
+
+Josef kämpft nach einer Welle von Terroranschlägen ums Überleben.
+Hunger, Kälte und ständige Gefahr prägen den Alltag.
+Getrieben von schmerzhaften Erinnerungen an seine verlorene Familie schließt er sich dem Widerstand an.
+Doch sein Ziel ist klar: Er will Marie, seine entführte Schwester, retten.
+
+Trotz seiner Abneigung gegen Gewalt muss er sich als Kämpfer beweisen.
+Während er an seinen inneren Konflikten und der Härte der neuen Welt zu zerbrechen droht, bleibt eine Wahrheit bestehen:
+Aufgeben ist keine Option.
+
+Ein packender Roman über Verlust, Widerstand und die Suche nach einem Funken Hoffnung in einer Welt, die am Abgrund steht.
+
+- Herausgeber: united p.c.
+- Erscheinungstermin: 27. Januar 2025
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 202 Seiten
+- ISBN-10: 3710326133
+- ISBN-13: 9783710326134
+- Abmessungen: 12.7 x 1.09 x 20.32 cm
+- Amazon Bestseller-Rang:
+  - Nr. 746.517 in Bücher
+  - Nr. 19.564 in Suspense-Thriller
+  - Nr. 77.532 in Literatur
+  - Nr. 243.955 in Unterhaltungsliteratur
 
 </blockquote>
 
@@ -20,11 +46,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/andre-schmitt-widerstand-2025
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/andre-schmitt-widerstand-2025
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/andre-schmitt-widerstand-2025
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/andre-schmitt-widerstand-2025
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/andre-schmitt-widerstand-2025
 
 
 
