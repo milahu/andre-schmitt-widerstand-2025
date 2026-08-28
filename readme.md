@@ -38,10 +38,10 @@ Ein packender Roman über Verlust, Widerstand und die Suche nach einem Funken Ho
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### andre.schmitt.widerstand.2025.600dpi.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:e4e4c593ea6579fede466cc967600129f3790812&dn=andre.schmitt.widerstand.2025.600dpi.german.book.scan&xl=356033860&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
